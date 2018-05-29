@@ -1,7 +1,7 @@
 <?php
 
 //et pääseks ligi sessioonile ja funktsioonidele
-	require("../../config.php");
+	require("../../../../config.php");
 	require("functions.php");
 	
 	#muutujad
@@ -42,7 +42,7 @@
 	if(isset($_POST['email'])) {
      
     // CHANGE THE TWO LINES BELOW
-    $email_to = "randoa@tlu.ee";
+    $email_to = "st3np@tlu.ee";
      
     $email_subject = "Lehe tagasiside";
      

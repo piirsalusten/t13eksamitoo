@@ -1,6 +1,6 @@
 <?php
 	//et pääseks ligi sessioonile ja funktsioonidele
-	require("../../config.php");
+	require("../../../../config.php");
 	require("functions.php");
 	
 	#muutujad
@@ -83,15 +83,6 @@
 
 			<div id="content">
 				<h1>Kontakt</h1>
-				<!--<h3>Rando Aljaste</h3>
-				<img src="kontaktpilt/rando.jpg" width="200" height="200" alt="Rando">
-				<h3>Mihkel Mägi</h3>
-				<img src="kontaktpilt/mihkel.jpg" width="200" height="200" alt="Mihkel">
-				<h3>Sten Piirsalu</h3>
-				<img src="kontaktpilt/sten.jpeg" width="200" height="200" alt="Sten">
-				<br>
-				<br>
-				<h1>Kontaktinfo</h1>//-->
 				<p>Saada meile sõnum täites tagasiside vormi.</p>
 				<br>
 				<form name="htmlform" method="post" action="html_form_send.php">

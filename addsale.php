@@ -1,5 +1,5 @@
 <?php
-	require("../../config.php");
+	require("../../../../config.php");
 	require("functions.php");
 	require("classes/Photoupload.class.php");
 	$notice = "";

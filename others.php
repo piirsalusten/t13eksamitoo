@@ -1,6 +1,6 @@
 <?php
 	//et pääseks ligi sessioonile ja funktsioonidele
-	require("../../config.php");
+	require("../../../../config.php");
 	require("functions.php");
 	
 	#muutujad
